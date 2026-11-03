@@ -1,2 +1,2 @@
-# Astex_HRFIN
+# Astex IHRFIN
 AMTEX Integrated HR and Finance management module
